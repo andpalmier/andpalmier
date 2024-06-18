@@ -1,8 +1,8 @@
-## Hi there 👋
+## Helloooo 👋
 
 My name is Andrea, I am interested in everything cyber-security related, machine learning, and reverse engineering. I am passionate about books, movies and art in general. Also, I am a die-hard AS Roma fan.
 
-# Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Adventures in Ad-Land: detect malvertising with seads](https://andpalmier.com/posts/seads/)
 - [Dissecting an Android stalkerware](https://andpalmier.com/posts/stalkerware-analysis/)

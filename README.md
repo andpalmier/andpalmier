@@ -12,4 +12,6 @@ I am interested in everything cyber-security related, machine learning, and reve
 
 <!-- BLOG-POST-LIST:START -->
 - [Adventures in Ad-Land: detect malvertising with seads](https://andpalmier.com/posts/seads/)
+- [Dissecting an Android stalkerware](https://andpalmier.com/posts/stalkerware-analysis/)
+- [Phishing findings, campaign #3: ING bank](https://andpalmier.com/posts/phishing-findings-3/)
 <!-- BLOG-POST-LIST:END -->

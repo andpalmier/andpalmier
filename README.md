@@ -12,4 +12,5 @@ I am interested in everything cyber-security related, machine learning, and reve
 
 <!-- BLOG-POST-LIST:START -->
 - [The subtle art of jailbreaking LLMs](https://andpalmier.com/posts/jailbreaking-llms/)
+- [Adventures in Ad-Land: detect malvertising with seads](https://andpalmier.com/posts/seads/)
 <!-- BLOG-POST-LIST:END -->

@@ -3,7 +3,8 @@
   <a href="https://andpalmier.com">Blog</a> •
   <a href="https://twitter.com/andpalmier">Twitter</a> •
   <a href="https://linkedin.com/in/andpalmier">LinkedIn</a> •
-  <a href="https://infosec.exchange/@andpalmier">Mastodon</a>
+  <a href="https://infosec.exchange/@andpalmier">Mastodon</a> •
+  <a href="https://bsky.app/profile/andpalmier.com">Bluesky</a> 
 </p>
 
 I am interested in everything cyber-security related, machine learning, and reverse engineering. I am passionate about books, movies and art in general. Also, I am a die-hard AS Roma fan.

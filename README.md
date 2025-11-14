@@ -15,5 +15,4 @@ I am interested in everything cyber-security related, machine learning, and reve
 - [Interview preparation for a Cyber Threat Intelligence role](https://andpalmier.com/posts/cti-interview-preparation/)
 - [The subtle art of jailbreaking LLMs](https://andpalmier.com/posts/jailbreaking-llms/)
 - [Adventures in Ad-Land: detect malvertising with seads](https://andpalmier.com/posts/seads/)
-- [Dissecting an Android stalkerware](https://andpalmier.com/posts/stalkerware-analysis/)
 <!-- BLOG-POST-LIST:END -->

@@ -13,4 +13,5 @@ I am interested in everything cyber-security related, machine learning, and reve
 
 <!-- BLOG-POST-LIST:START -->
 - [KawaiiGPT - Deep dive into the &quot;malicious LLM&quot;](https://andpalmier.com/posts/kawaiigpt-analysis/)
+- [Interview preparation for a Cyber Threat Intelligence role](https://andpalmier.com/posts/cti-interview-preparation/)
 <!-- BLOG-POST-LIST:END -->

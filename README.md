@@ -13,7 +13,4 @@ I am interested in everything cyber-security related, machine learning, and reve
 
 <!-- BLOG-POST-LIST:START -->
 - [Beyond ARTEX: what 14 AI pentest tools give away](https://andpalmier.com/posts/agentic-frameworks-beyond-artex/)
-- [ARTEX: reading the source behind the IOCs](https://andpalmier.com/posts/artex-source-behind-iocs/)
-- [Releasing an Abuse.ch toolkit for threat intelligence](https://andpalmier.com/posts/abuse-ch-toolkit/)
-- [KawaiiGPT - Deep dive into the &quot;malicious LLM&quot;](https://andpalmier.com/posts/kawaiigpt-analysis/)
 <!-- BLOG-POST-LIST:END -->
